@@ -94,6 +94,7 @@ hr.small {
 
 .call-to-action {
     padding: 50px 0;
+    background: url(../img/footer.jpg) no-repeat center center scroll;
 }
 
 .call-to-action .btn {
@@ -101,5 +102,9 @@ hr.small {
 }
 
 .social-media {
+    color: #fff;
+}
+
+.social-media:hover {
     color: #fff;
 }
