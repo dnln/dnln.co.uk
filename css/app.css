@@ -95,6 +95,10 @@ hr.small {
 .call-to-action {
     padding: 50px 0;
     background: url(../img/footer.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
 
 .call-to-action .btn {
